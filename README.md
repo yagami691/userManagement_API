@@ -1,6 +1,8 @@
 # User Authentication API
 
 This API allows managing user authentication and basic user data operations such as creating, updating, deleting, and retrieving users.
+this  is also documented on Swagger with this `http://localhost:8080/swagger-ui.html
+`
 
 ## Prerequisites
 
@@ -107,7 +109,7 @@ Deletes the user with ID `7`.
 ```
 
 **Description:**  
-Authenticates a user with the given email and password which generates un token
+Authenticates a user with the given email and password which generates a token
 
 ---
 
