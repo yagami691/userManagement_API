@@ -1,7 +1,7 @@
 # User Authentication API
 
 This API allows managing user authentication and basic user data operations such as creating, updating, deleting, and retrieving users.
-this  is also documented on Swagger with this `http://localhost:8080/swagger-ui.html
+This  is also documented on Swagger with this url `http://localhost:8080/swagger-ui.html
 `
 
 ## Prerequisites
